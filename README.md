@@ -10,6 +10,7 @@
 - Lưu lại top sau mỗi lần chơi
 - Tinh năng thay đổi nhạc
 - Hướng dẫn sử dụng
+- Chia ảnh - văng ra các phía khi chết
 ## Thư viện sử dụng
 - [C++](https://vi.wikipedia.org/wiki/C%2B%2B)
 - [C](https://vi.wikipedia.org/wiki/C_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh))
